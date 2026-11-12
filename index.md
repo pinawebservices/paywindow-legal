@@ -78,12 +78,14 @@ PayWindow uses Apple's local notification system (UNUserNotificationCenter) to r
 
 ## On This Website
 
-Our website (where you can learn about and download the app) offers an optional email newsletter so you can hear about new features and updates.
+Our website (where you can learn about and download the app, and download our free budgeting worksheet) offers an optional email newsletter.
 
-- If you choose to sign up, we collect only your email address, via Mailchimp, our email service provider.
-- Your email is used solely to send you occasional product updates — never sold, shared, or used for anything else.
+- If you choose to sign up, we collect only your email address, via Mailchimp, our email service provider. We note which signup form you used (for example, the worksheet page) so we send you the kind of emails you asked for.
+- Depending on the form you use, your email is used to send you occasional product updates, practical budgeting tips, or both, as described on that form. It is never sold, shared, or used for anything else.
 - You can unsubscribe at any time using the link in any email we send.
-- Signing up is entirely optional and has no effect on your ability to use the PayWindow app.
+- Signing up is entirely optional. It is not required to download the free worksheet, and it has no effect on your ability to use the PayWindow app.
+
+The website uses Vercel Web Analytics to count page visits (for example, how many people visit a page or open the worksheet). It does not use cookies and does not identify or track you across other websites.
 
 ## Children's privacy
 
